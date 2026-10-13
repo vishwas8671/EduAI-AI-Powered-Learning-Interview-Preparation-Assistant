@@ -187,6 +187,7 @@ EduAI/
 
 - GitHub: [vishwas8671](https://github.com/vishwas8671)
 - Portfolio: [View Portfolio](https://vishwas-portfolio-xcqo.vercel.app)
+- Project Live Link : https://ai-powered-learning-interview-assis.vercel.app/login
 
 ---
 
